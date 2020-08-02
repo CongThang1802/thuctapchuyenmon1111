@@ -248,3 +248,24 @@ D:\DoAnThucTap\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
 D:\DoAnThucTap\DoAnSapXep\obj\Debug\DoAnSapXep.exe
 D:\DoAnThucTap\DoAnSapXep\obj\Debug\DoAnSapXep.pdb
 D:\DoAnThucTap\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\bin\Debug\DoAnSapXep.exe.config
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\bin\Debug\DoAnSapXep.exe
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\bin\Debug\DoAnSapXep.pdb
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\bin\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\bin\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.csprojAssemblyReference.cache
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.CaiDat.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.frmInput.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Mainform.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Properties.Resources.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Node.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.en-US.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.Lang.myResource.vi-VN.resources
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.GenerateResource.cache
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.exe.licenses
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.csproj.CoreCompileInputs.cache
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\en-US\DoAnSapXep.resources.dll
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\vi-VN\DoAnSapXep.resources.dll
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.exe
+C:\Users\Cong Thang\Desktop\thuctapchuyenmon1111\DoAnSapXep\obj\Debug\DoAnSapXep.pdb

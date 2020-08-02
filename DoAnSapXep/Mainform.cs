@@ -58,7 +58,7 @@ namespace DoAnSapXep
         private string strSoLuongNode;
 
 
-        Action ThuatToanSapXep;// giong delegate
+        Action ThuatToanSapXep;
         //thread điều khiển quá trình sắp xếp
         private Thread sapxepThread;
         private Dictionary<string, Label> bienArr;

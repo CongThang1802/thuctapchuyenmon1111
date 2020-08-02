@@ -32,7 +32,6 @@ namespace DoAnSapXep
             tbx1.MaxLength = 2;// chi nhap toi da la 99
             tbx1.AcceptsReturn = true;
             btn1.Font =tbx1.Font= new Font("Consolas", ThamSo.KichCoNode /4, FontStyle.Bold);
-            //this.LostFocus += Node_LostFocus;
             tbx1.LostFocus += Tbx1_LostFocus;
         }
 
@@ -59,7 +58,6 @@ namespace DoAnSapXep
 
 
         private int value;
-       //public static ManualResetEvent pauseStatus = new ManualResetEvent(true);
         public static bool IsPause = false;
         public event EventHandler Capnhat;
         public override string Text

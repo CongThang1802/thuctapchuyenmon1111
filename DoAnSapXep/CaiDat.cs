@@ -32,8 +32,7 @@ namespace DoAnSapXep
             btnCapNhat.Text = rm.GetString("capnhat", culture);
             btnMacDinh.Text = rm.GetString("macdinh", culture);
             btnHuy.Text = rm.GetString("huy", culture);
-            //xong con gi nua ko?
-            // cai frm input
+            
         }
 
         public CaiDat()
@@ -58,16 +57,6 @@ namespace DoAnSapXep
             btnMauNodeDangXet.BackColor = ThamSo.mauNodeDangSX;
 
             txbSoLuongPhanTuMacDinh.Text = Properties.Settings.Default.soLuongPhanTuMacDinh.ToString();
-
-          //  _txbLabelFont = txbLabelFont;
-          //  _txbFontChu = txbFontChu;
-         
-            //labelFontDialog.Font = txbLabelFont.Font;
-            //chuFontDialog.Font = txbChuFont.Font;
-
-            //txbLabelFont.Text = string.Format("{0} {1}", txbLabelFont.Font.Name, txbLabelFont.Font.Size);
-            //txbChuFont.Text = string.Format("{0} {1}", txbChuFont.Font.Name, txbChuFont.Font.Size);
-
         }
 
         private void btnMauNenNode_Click(object sender, EventArgs e)
@@ -133,10 +122,6 @@ namespace DoAnSapXep
             Properties.Settings.Default.mauNenNode = ThamSo.mauNen = btnMauNenNode.BackColor;
             Properties.Settings.Default.mauNodeHoanTatSapXep = ThamSo.mauNodeHTSX = btnMauNodeDaSapXep.BackColor;
             Properties.Settings.Default.mauNodeDangSapXep = ThamSo.mauNodeDangSX = btnMauNodeDangXet.BackColor;
-
-          //  Properties.Settings.Default.labelFont = txbLabelFont.Font = labelFontDialog.Font;
-           // Properties.Settings.Default.chuFont = txbChuFont.Font = chuFontDialog.Font;
-
             Properties.Settings.Default.soLuongPhanTuMacDinh = soLuongPhanTuMacDinh;
           
 
@@ -161,7 +146,6 @@ namespace DoAnSapXep
             if (dialog == DialogResult.OK)
             {
                 Font font = labelFontDialog.Font;
-              //  txbLabelFont.Text = string.Format("{0} {1}", font.Name, font.Size);
 
             }
         }
